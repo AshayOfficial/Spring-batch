@@ -1,10 +1,10 @@
 # Spring-Batch-POC
 
+## Introduction
+This POC is related to the Spring Batch Implementation using Spring Boot 3+ version. 
+Spring Batch is based on traditional batch processing in which JobRepository is used to store the 
+![image](https://github.com/AshayOfficial/Spring-batch/assets/116789599/403b112b-cdd5-45ac-bfae-6638e995bfa5)
 
-
-## Getting started
-
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
 
 Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
 
